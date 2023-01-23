@@ -157,11 +157,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Stephen Makenzi Waweru - [Github](https://github.com/stephenmakenziwaweru) / [Twitter](https://twitter.com/StephenMakenzi)
-Jane Ngethe - [Github](https://github.com/Janengethe) / [Twitter](https://twitter.com/jane)
-
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Matthew Utti - [Github](https://github.com/fredie7) / [Twitter](https://twitter.com/lexutti)
 
 Second part of Airbnb: Joann Vuong
 ## License
